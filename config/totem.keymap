@@ -101,7 +101,7 @@
             bindings = <
          &none     &none     &none       &none      &none      &kp PAGE_DOWN  &none           &kp UP         &none         &kp PAGE_UP  
          &kp LGUI  &kp LALT  &kp LSHIFT  &kp LCTRL  &none    &none       &kp LEFT        &kp DOWN       &kp RIGHT     &kp END      
-&none  &none     &none     &none       &none      &none      &none          &msc SCRL_DOWN  &none          &msc SCRL_UP  &none        &none
+&trans  &none     &none     &none       &none      &none      &none          &msc SCRL_DOWN  &none          &msc SCRL_UP  &none        &none
                            &trans      &kp BSPC   &kp RET    &kp SPACE      &trans          &mo SHORTCUTS
             >;
         };
